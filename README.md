@@ -1,5 +1,4 @@
 # Hi ✨
-
 ## Skills
 
 **Languages:** C++, C, C#, SQL, HTML/CSS/JavaScript, Python, PostgreSQL\
@@ -10,13 +9,14 @@
 
 | Project | Description | Technologies |
 |---|---|---|
+| [C++ JSON library](https://github.com/coldb1t/cpp_json) | Simple single-header JSON library written in C++20 | C++20 |
 | [ESP32 Environment Monitor](https://github.com/coldb1t/ESP32-Module) | ESP32 device with multiple functions including clock, temperature, humidity, RTC, OLED | ESP32, FreeRTOS, C++17, Wokwi, PlatformIO |
 | [C# Library System](https://github.com/coldb1t/CsLibrarySystem) | API for managing library operations including books, branches, members, and loans | C#, SQLite |
 | [HTTP Server](https://github.com/coldb1t/CPPServerExample) | Simple multi-threaded HTTP server with JSON API | C++ |
 | [SQL Library System](https://github.com/coldb1t/Library-System-SQL) | PostgreSQL database with 24 complex queries | PostgreSQL |
 
 <!--
-**coldb1t/coldb1t** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+✨
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
